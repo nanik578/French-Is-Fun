@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to French Is Fun!
 
 You can use the [editor on GitHub](https://github.com/nanik578/French-Is-Fun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
